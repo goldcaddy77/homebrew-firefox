@@ -2,7 +2,7 @@
 
 ## Summary
 
-Note: now serving up to Firefox 49
+Note: now serving up to Firefox 56
 
 An [Homebrew Cask] tap for installing older [Firefox] versions.  Forked from [smclernon] and updated to work with new 
 [Cask header style].
@@ -29,10 +29,10 @@ to the linked sites for further explanation).
 	brew cask install firefox-36
 	brew cask install firefox-37
 	...
-	brew cask install firefox-46
-	brew cask install firefox-47
-	brew cask install firefox-48
-	brew cask install firefox-49
+	brew cask install firefox-53
+	brew cask install firefox-54
+	brew cask install firefox-55
+	brew cask install firefox-56
 
 ## Uninstalling the casks
 
@@ -41,10 +41,10 @@ to the linked sites for further explanation).
 	brew cask uninstall firefox-36
 	brew cask uninstall firefox-37
 	...
-	brew cask uninstall firefox-46
-	brew cask uninstall firefox-47
-	brew cask uninstall firefox-48
-	brew cask uninstall firefox-49
+	brew cask uninstall firefox-53
+	brew cask uninstall firefox-54
+	brew cask uninstall firefox-55
+	brew cask uninstall firefox-56
 
 ## Adding new versions
 
